@@ -16,6 +16,7 @@ To learn about GitHub Platform and how to make your documentaion of your project
 
 
 # What is MarkDown?
+GitHub supports documentation which includes README file in Markdown format (see [README](https://eslamakram.github.io/Reading-Notes/) § On GitHub)
 
 
 
