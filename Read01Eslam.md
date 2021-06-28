@@ -19,6 +19,17 @@ To learn about GitHub Platform and how to make your documentaion of your project
 
 # What is MarkDown?
 GitHub supports documentation which includes README file in Markdown format (see [README](https://eslamakram.github.io/Reading-Notes/)  On GitHub)
+**Here is some of features of MarkDown:**
+1. make a text with **Bold and _nested italic_** style by ** ** and _ _ 
+2. Make a text with Strikethrough when typing it within ![image](https://user-images.githubusercontent.com/23285132/123649627-94b84200-d832-11eb-92c7-df38521bcf37.png)
+
+3. make a block code when typing it within ![image](https://user-images.githubusercontent.com/23285132/123649280-4dca4c80-d832-11eb-83e9-6049a8490a26.png)
+ 
+  ```
+function test() {
+  lines of code ;
+}
+```
 
 
 
