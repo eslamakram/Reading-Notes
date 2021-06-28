@@ -14,6 +14,15 @@ such as taking criticism as advice and correct their actions and how to learn fr
 1. add emoji to your writing by typing :EMOJICODE: , you can find [Emoji Code](https://github.com/ikatyang/emoji-cheat-sheet) here! ![image](https://user-images.githubusercontent.com/23285132/123647167-86692680-d830-11eb-8fea-625d170d6d97.png)
 
 2. > quote text with a >.
-3. make **Bold and _nested italic_** by ** ** and _ _ 
+3. make a text with **Bold and _nested italic_** style by ** ** and _ _ 
+4. Make a text with Strikethrough when typing it within ![image](https://user-images.githubusercontent.com/23285132/123649627-94b84200-d832-11eb-92c7-df38521bcf37.png)
+
+5. make a block code when typing it within ![image](https://user-images.githubusercontent.com/23285132/123649280-4dca4c80-d832-11eb-83e9-6049a8490a26.png)
+ 
+  ```
+function test() {
+  lines of code ;
+}
+```
 
 
