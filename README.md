@@ -11,7 +11,8 @@ such as taking criticism as advice and correct their actions and how to learn fr
 3. love what you want to do 
 
 ## Features of MarkDown:
-1. add emoji to your writing by typing :EMOJICODE: , you can find [Emoji Code](https://github.com/ikatyang/emoji-cheat-sheet) here!
+1. add emoji to your writing by typing :EMOJICODE: , you can find [Emoji Code](https://github.com/ikatyang/emoji-cheat-sheet) here! ![image](https://user-images.githubusercontent.com/23285132/123647167-86692680-d830-11eb-8fea-625d170d6d97.png)
+
 2. > quote text with a >.
 3. 
 
