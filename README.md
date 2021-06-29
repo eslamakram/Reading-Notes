@@ -5,9 +5,9 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 
 | Name | Online Teaching Resource |
 | --- | ----------- |
-| Growth Mindest | [](https://eslamakram.github.io/Reading-Notes/Read00Eslam) |
-| Read01 | [](https://eslamakram.github.io/Reading-Notes/Read01Eslam) |
-| Read02 | [](https://eslamakram.github.io/Reading-Notes/Read02Eslam) |
+| Growth Mindest | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read00Eslam) |
+| Read01 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read01Eslam) |
+| Read02 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read02Eslam) |
 
 
 
