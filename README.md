@@ -8,6 +8,8 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 | Growth Mindest | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read00Eslam) |
 | Read01 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read01Eslam) |
 | Read02 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read02Eslam) |
+| Read03 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read03Eslam) |
+| Read04 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read04Eslam) |
 
 
 
