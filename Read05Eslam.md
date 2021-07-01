@@ -17,5 +17,33 @@
 4. Logical operators: uses Boolean (logical) values; Also returns a Boolean value. However, the && and || operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they may return a non-Boolean value. The logical operators are described in the following table.
 ![](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-Operator.png)
 
+## Loops and iteration
 
+ * Execute a block of code a number of times.
+
+ There are Two different kinds of loops:
+ 1. FOR Loops : loops through a block of code a number of times
+ 2. while loops :  loops through a block of code while a specified condition is true
+
+ 
+ * Example of For loop shows the syntax 
+
+```
+for (let step = 0; step < 5; step++) {
+  // Runs 5 times, with values of step 0 through 4.
+  console.log('Walking east one step');
+}
+```
+
+* Example of while loop that shows the syntax 
+
+```
+let n = 0;
+let x = 0;
+while (n < 3) {
+  n++;
+  x += n;
+}
+
+```
 
