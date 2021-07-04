@@ -10,6 +10,9 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 | Read02 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read02Eslam) |
 | Read03 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read03Eslam) |
 | Read04 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read04Eslam) |
+| Read05 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read05Eslam) |
+| Read06 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read06Eslam) |
+| Read07 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Read07Eslam) |
 
 
 
