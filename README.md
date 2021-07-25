@@ -23,8 +23,8 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 ### Table of Contents
 | Name | Online Teaching Resource |
 | --- | ----------- |
-| Read01 |  |
-| Read02 |  |
+| Read01 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/class-01)  |
+| Read02 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/class-02)  |
 | Read03 |  |
 | Read04 |  |
 | Read05 |  |
@@ -32,14 +32,5 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 | Read07 |  |
 
 
-### Table of Contents
-| Name | Online Teaching Resource |
-| --- | ----------- |
-| Read01 | |
-| Read02 |  |
-| Read03 |  |
-| Read04 |  |
-| Read05 |  |
-| Read06 | |
-| Read07 |  |
+
 
