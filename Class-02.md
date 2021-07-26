@@ -2,18 +2,18 @@
 
 ## HTML
 
-1.Headings and paragraphs
+**1.Headings and paragraphs**
 
 *HTML has six "levels" of headings:*
-<h1> is used for main headings
-<h2> is used for subheadings
+h1 is used for main headings
+h2 is used for subheadings
 
-2.Bold, italic, emphasis
+**2.Bold, italic, emphasis**
    . Bold : By enclosing words in the tags b we can make characters appear bold and we can use tag strong
    . Italic : By enclosing words in the tags i we can make characters appear italic.
    . Emphasis : By enclosing words in the tags em we can make characters appear italic
 
-3. Structural and semantic markup
+**3. Structural and semantic markup**
      . Structural markup: the elements that you can use to describe both headings and paragraphs
      . Semantic markup: which provides extra information; such as where emphasis is placed in a sentence, that something
                     you have written is a quotation (and who said it), the meaning of acronyms, and so on
@@ -31,13 +31,13 @@
     **How CSS works?**
     CSS works by associating rules with HTML elements. A CSS rule
     contains two parts: a selector and a declaration.
+    
       ```
-    //selector
+    selector
      p {
            font-family: Arial; // decrelation 
         }
-    
-       ```
+        ```
  also; CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify
 several properties in one declaration, each separated by a semi-colon.
      
