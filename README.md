@@ -23,10 +23,5 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 ### Table of Contents
 | Name | Online Teaching Resource |
 | --- | ----------- |
-| Read01 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Class-01)  |
-| Read02 | [Eslam Blog](https://eslamakram.github.io/Reading-Notes/Class-02)  |
-
-
-
-
-
+| Read01 | [Class 01](https://eslamakram.github.io/Reading-Notes/Class-01)  |
+| Read02 | [Class 02](https://eslamakram.github.io/Reading-Notes/Class-02)  |
