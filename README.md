@@ -31,3 +31,4 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 | Read06 | [Class 06](https://eslamakram.github.io/Reading-Notes/Class-06)  |
 | Read07 | [Class 07](https://eslamakram.github.io/Reading-Notes/Class-07)  |
 | Read08 | [Class 08](https://eslamakram.github.io/Reading-Notes/Class-08)  |
+| Read09 | [Class 09](https://eslamakram.github.io/Reading-Notes/Class-09)  |
