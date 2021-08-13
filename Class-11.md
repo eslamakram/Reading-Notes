@@ -2,7 +2,7 @@
 
 - Supporting audio formats in HTML
 
-There are three formats that are supported: 
+There are three formats that are supported:
 
 1. MP3 which is Audio format from MPEG (Moving/Motion Pictures Experts Group)
 
@@ -44,5 +44,4 @@ The`<audio>` element works just like the `<video>` element, with a few small dif
                   <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> nstead.</p>
             </audio>
 
-
-if u want to learn how to do this exactly vist [ this page](https://www.google.jo/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLGL-ggEzECc&psig=AOvVaw058zoDc8h0c07k_rLofFnI&ust=1628464132131000&source=images&cd=vfe&ved=0CAsQjhxqFwoTCMDD7OuDoPICFQAAAAAdAAAAABAD) is a gold resource.
+if u want to learn how to do this exactly vist [this page](https://www.google.jo/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLGL-ggEzECc&psig=AOvVaw058zoDc8h0c07k_rLofFnI&ust=1628464132131000&source=images&cd=vfe&ved=0CAsQjhxqFwoTCMDD7OuDoPICFQAAAAAdAAAAABAD) is a gold resource.
