@@ -44,5 +44,4 @@ It is important to note, not all properties may be transitioned, only properties
 Transition Duration
 The duration in which a transition takes place is set using the transition-duration property. The value of this property can be set using general timing values, including seconds (s) and milliseconds (ms). These timing values may also come in fractional measurements, .2s for example.
 
-
 for more animated elements visit [this site](https://codepen.io/retyui/pen/ByoaXV)
