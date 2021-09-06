@@ -2,7 +2,7 @@
 
 Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to get a useful training course and immerse myself in developing environment in an efficient way with powerful instructors in ASAC. This is [My GitHub](https://eslamakram.github.io/eslamakram/)
 
-## Code 201 - Foundations of Software Development
+## Code 101 - Foundations of Software Development
 
 - Table of Contents:
 
@@ -45,7 +45,7 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 
 | Name | Online Teaching Resource |
 | --- | ----------- |
-| Read01 | [Class 01]((<https://eslamakram.github.io/Reading-Notes/Class301-01>)  |
+| Read01 | [Class 01](https://eslamakram.github.io/Reading-Notes/Class301-01)  |
 | Read02 | [Class 02](https://eslamakram.github.io/Reading-Notes/Class301-02)  |
 
 ## Code 401 - Advanced Software Development
