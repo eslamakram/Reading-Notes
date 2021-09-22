@@ -58,5 +58,7 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 | Read11 | [Class 11](https://eslamakram.github.io/Reading-Notes/Class301-11)  |
 | Read12 | [Class 12](https://eslamakram.github.io/Reading-Notes/Class301-12)  |
 | Read13 | [Class 13](https://eslamakram.github.io/Reading-Notes/Class301-13)  |
+| Read14 | [Class 14](https://eslamakram.github.io/Reading-Notes/Class301-14)  |
+| Read15 | [Class 15](https://eslamakram.github.io/Reading-Notes/Project)      |
 
 ## Code 401 - Advanced Software Development
