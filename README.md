@@ -67,5 +67,7 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 
 | Name | Online Teaching Resource |
 | --- | ----------- |
-| Read01 | [Class 01](https://eslamakram.github.io/Reading-Notes/code401/Class401-01.md)  |
-| Read02 | [Class 02](https://eslamakram.github.io/Reading-Notes/code401/Class401-02.md)  |
+| Read01 | [Class 01](https://eslamakram.github.io/Reading-Notes/code401/Class401-01)  |
+| Read02 | [Class 02](https://eslamakram.github.io/Reading-Notes/code401/Class401-02)  |
+| Read03 | [Class 03](https://eslamakram.github.io/Reading-Notes/code401/Class401-03)  |
+
