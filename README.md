@@ -77,3 +77,12 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 | Read08 | [Class 08](https://eslamakram.github.io/Reading-Notes/code401/Class401-08)  |
 | Read09 | [Class 09](https://eslamakram.github.io/Reading-Notes/code401/Class401-09)  |
 | Read10 | [Class 10](https://eslamakram.github.io/Reading-Notes/code401/Class401-10)  |
+| Read11 | [Class 11](https://eslamakram.github.io/Reading-Notes/code401/Class401-11)  |
+| Read12 | [Class 12](https://eslamakram.github.io/Reading-Notes/code401/Class401-12)  |
+| Read13 | [Class 13](https://eslamakram.github.io/Reading-Notes/code401/Class401-13)  |
+| Read14 | [Class 14](https://eslamakram.github.io/Reading-Notes/code401/Class401-14)  |
+| Read15 | [Class 15](https://eslamakram.github.io/Reading-Notes/code401/Class401-15)  |
+| Read16 | [Class 16](https://eslamakram.github.io/Reading-Notes/code401/Class401-16)  |
+| Read17 | [Class 17](https://eslamakram.github.io/Reading-Notes/code401/Class401-17)  |
+| Read18 | [Class 18](https://eslamakram.github.io/Reading-Notes/code401/Class401-18)  |
+| Read26 | [Class 26](https://eslamakram.github.io/Reading-Notes/code401/Class401-26)  |
