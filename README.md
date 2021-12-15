@@ -86,6 +86,11 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 | Read17 | [Class 17](https://eslamakram.github.io/Reading-Notes/code401/Class401-17)  |
 | Read18 | [Class 18](https://eslamakram.github.io/Reading-Notes/code401/Class401-18)  |
 | Read26 | [Class 26](https://eslamakram.github.io/Reading-Notes/code401/Class401-26)  |
-| Read17 | [Class 27](https://eslamakram.github.io/Reading-Notes/code401/Class401-27)  |
-| Read18 | [Class 28](https://eslamakram.github.io/Reading-Notes/code401/Class401-28)  |
-| Read26 | [Class 29](https://eslamakram.github.io/Reading-Notes/code401/Class401-29)  |
+| Read27 | [Class 27](https://eslamakram.github.io/Reading-Notes/code401/Class401-27)  |
+| Read28 | [Class 28](https://eslamakram.github.io/Reading-Notes/code401/Class401-28)  |
+| Read29 | [Class 29](https://eslamakram.github.io/Reading-Notes/code401/Class401-29)  |
+| Read30 | [Class 30](https://eslamakram.github.io/Reading-Notes/code401/Class401-30)  |
+| Read31 | [Class 31](https://eslamakram.github.io/Reading-Notes/code401/Class401-31)  |
+| Read32 | [Class 32](https://eslamakram.github.io/Reading-Notes/code401/Class401-32)  |
+| Read33 | [Class 33](https://eslamakram.github.io/Reading-Notes/code401/Class401-33)  |
+| Read34 | [Class 34](https://eslamakram.github.io/Reading-Notes/code401/Class401-34)  |
