@@ -94,3 +94,8 @@ Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to ge
 | Read32 | [Class 32](https://eslamakram.github.io/Reading-Notes/code401/Class401-32)  |
 | Read33 | [Class 33](https://eslamakram.github.io/Reading-Notes/code401/Class401-33)  |
 | Read34 | [Class 34](https://eslamakram.github.io/Reading-Notes/code401/Class401-34)  |
+| Read35 | [Class 35](https://eslamakram.github.io/Reading-Notes/code401/Class401-35)  |
+| Read36 | [Class 36](https://eslamakram.github.io/Reading-Notes/code401/Class401-36)  |
+| Read37 | [Class 37](https://eslamakram.github.io/Reading-Notes/code401/Class401-37)  |
+| Read38 | [Class 38](https://eslamakram.github.io/Reading-Notes/code401/Class401-38)  |
+| Read39 | [Class 39](https://eslamakram.github.io/Reading-Notes/code401/Class401-39)  |
